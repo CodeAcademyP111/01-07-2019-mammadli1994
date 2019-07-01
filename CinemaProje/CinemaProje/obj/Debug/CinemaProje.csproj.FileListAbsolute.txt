@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\CinemaProje\CinemaProje\bin\Debug\CinemaProje.exe.config
+C:\Users\User\source\repos\CinemaProje\CinemaProje\bin\Debug\CinemaProje.exe
+C:\Users\User\source\repos\CinemaProje\CinemaProje\bin\Debug\CinemaProje.pdb
+C:\Users\User\source\repos\CinemaProje\CinemaProje\obj\Debug\CinemaProje.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CinemaProje\CinemaProje\obj\Debug\CinemaProje.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CinemaProje\CinemaProje\obj\Debug\CinemaProje.exe
+C:\Users\User\source\repos\CinemaProje\CinemaProje\obj\Debug\CinemaProje.pdb
